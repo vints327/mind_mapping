@@ -1,2 +1,8 @@
-# mind_mapping
-An repository for mind mapping manage
+# 前言
+本仓库试图用思维导图方式涵盖所有前端以及由前端延伸出的知识点.
+
+
+
+> 努力更新中。。。
+
+
